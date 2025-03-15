@@ -86,6 +86,18 @@ while (tekst.Length < 5)
 - [ ] Napisz program który będzie wypisywał liczby z listy do póki nie napotka liczby większej od `public int x`. 
 
 ## Zadania - pętle `foreach`
+```C#
+// jedyny segment pętli `foreach` składa się z przypisywania do zmiennej - w tym wypadku - "element" kolejnych wartości pętli. Innymi słowy co przejście pętli do zmiennej "element" wpisywany jest kolejny element listy "lista". Zauważ, że typ zmiennej element jest taki sam jak typ naszej listy!
+
+List<int> lista = new List<int>();
+lista.Add(1);
+lista.Add(5);
+lista.Add(2);
+foreach(int element in lista)
+{
+	Debug.Log("Kolejny element listy: " + element);
+}
+```
 - [ ] Napisz program który wypisze wszystkie elementy listy. 
 - [ ] Napisz program który wyświetli wszystkie elementy listy o parzystej wartości. 
 - [ ] Napisz program który przejdzie przez każdy element w zmiennej typu string. 
