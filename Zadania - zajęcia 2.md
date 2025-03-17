@@ -82,7 +82,6 @@ while (tekst.Length < 5)
 - [ ] Napisz program który wypisze wszystkie elementy listy. Pamiętaj aby sprawdzać czy nie wykraczasz poza rozmiar listy.
 - [ ] Napisz program który będzie wypisywał liczby z listy dopóki nie napotka liczby `public int x`.
 - [ ] Napisz program który będzie wypisywał liczby z listy dopóki nie napotka liczby podzielnej przez `public int x` bez reszty. 
-- [ ] Napisz program który będzie wypisywał liczby z listy do póki nie napotka liczby podzielnej przez `public int x`.
 - [ ] Napisz program który będzie wypisywał liczby z listy do póki nie napotka liczby większej od `public int x`. 
 
 ## Zadania - pętle `foreach`
