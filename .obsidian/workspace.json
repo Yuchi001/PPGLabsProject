@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zadania - zajęcia 2.md",
+                "file": "Zadania - zajęcia 3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zadania - zajęcia 2"
+              "title": "Zadania - zajęcia 3"
             }
           }
         ]
@@ -170,7 +170,13 @@
   },
   "active": "11ee49a525f48f51",
   "lastOpenFiles": [
-    "Zadania - zajęcia 1.md",
-    "Zadania - zajęcia 2.md"
+    "Zadania - zajęcia 2.md",
+    "Zadania - zajęcia 3.md",
+    "Dokumentacja/kompendium/dokumentacja_ZMIENNE.pdf",
+    "Dokumentacja/instrukcja_laby1.md",
+    "Dokumentacja/kompendium/dokumentacja_KOMPONENTY.pdf",
+    "Dokumentacja/instrukcja_laby2.md",
+    "Dokumentacja/kompendium/dokumentacja_METODY.pdf",
+    "Zadania - zajęcia 1.md"
   ]
 }
